@@ -40,3 +40,4 @@ sentence = 'The revenue of ' + company_1 + ' in ' + year_1_str  + ' was $' + rev
 print(sentence)
 
 
+
